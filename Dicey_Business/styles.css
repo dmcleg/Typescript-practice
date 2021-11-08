@@ -1,0 +1,18 @@
+.dice {
+    height: 100px;
+    width: 100px;
+    border: solid black 2px;
+    border-radius: 20%;
+    background-color: peachpuff;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    font-size: 5em;
+    display: flex;
+  }
+  
+  #diceContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
